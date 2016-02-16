@@ -9,3 +9,5 @@ rundll32.exe %AppData%\malware.dll,malfunc
 ```
 
 Guess what hash you would get with autoruns ? You are right, the hash of rundll32.exe :-) Hope it's clear now.
+
+Does not seem to work with Windows 10.
